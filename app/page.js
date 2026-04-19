@@ -537,7 +537,7 @@ export default function Home() {
             StyleSignal AI
           </p>
           <h1 className="mt-2 text-4xl font-bold tracking-tight">
-            Validation workspace for boutique founders
+            Validation workspace for business founders
           </h1>
           <p className="mt-4 max-w-3xl text-lg leading-8 text-slate-600">
             Turn business ideas into structured validation experiments, generate
